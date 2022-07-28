@@ -1,0 +1,8 @@
+ Grupo 01
+
+Em "USUARIOS" colocamos login e senha para contribuinte e para os administradores.
+
+Na tabela "TEMA" escolhemos dois tipos, sobre governo para ajudar nas eleições deste ano, 
+dando informações veridicas e combatendo fake news, e ongs para divulgações de ongs que queiram se divulgar. 
+
+Em "POSTAGENS" onde contribuintes compartilham o que querem divulgar no blog.
